@@ -3,7 +3,7 @@
 <!-- toc -->
 
 - [Node.js sample app on OpenShift!](#nodejs-sample-app-on-openshift)
-  * [OpenShift v3 setup](#openshift-origin-v3-setup)
+  * [OpenShift v3 setup](#openshift-v3-setup)
     + [Running a virtual machine managed by minishift](#running-a-virtual-machine-managed-by-minishift)
     + [Starting a Docker container](#starting-a-docker-container)
     + [Downloading the Binary](#downloading-the-binary)
@@ -55,7 +55,7 @@ Red Hat periodically publishes OKD server binaries for Linux, which you can down
 
 #### Running an Ansible playbook
 
-Outlined in the [Installing Clusters](https://docs.okd.io/latest/install/index.html#install-planning) guide for production environments, OKD is also installable via Ansible playbook made avaialble on the GitHub [openshift-ansible](https://github.com/openshift/openshift-ansible) repo.
+Outlined in the [Planning Your Installation](https://docs.okd.io/latest/install/index.html#install-planning) guide for production environments, OKD is also installable via Ansible playbook made avaialble on the GitHub [openshift-ansible](https://github.com/openshift/openshift-ansible) repo.
 
 
 ### Creating a project
