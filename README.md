@@ -47,11 +47,11 @@ One option is to download and use the `minishift` binary as described in its [ge
 
 #### Starting a Docker container
 
-Another option is running the OKD Docker container image from [Docker Hub](https://hub.docker.com/r/openshift/origin/) launch as described in the [Getting Started for Administrators](https://docs.okd.io/latest/getting_started/administrators.html#running-in-a-docker-container). This method is supported on Fedora, CentOS, and Red Hat Enterprise Linux (RHEL) hosts only.
+Another option is running the OKD Docker container image from [Docker Hub](https://hub.docker.com/r/openshift/origin/) as described in [Method 1: Running in a Container](https://docs.okd.io/latest/getting_started/administrators.html#running-in-a-docker-container). This method is supported on Fedora, CentOS, and Red Hat Enterprise Linux (RHEL) hosts only.
 
 #### Downloading the Binary
 
-Red Hat periodically publishes OKD server binaries for Linux, which you can download on the OpenShift Origin GitHub [Release](https://github.com/openshift/origin/releases) page. Instructions on how to install and launch the OKD server from binary are described in [Getting Started for Administrators](https://docs.okd.io/latest/getting_started/administrators.html#downloading-the-binary).
+Red Hat periodically publishes OKD server binaries for Linux, which you can download on the OKD GitHub [Release](https://github.com/openshift/origin/releases) page. Instructions on how to install and launch the OKD server from binary are described in [Method 2: Downloading the Binary](https://docs.okd.io/latest/getting_started/administrators.html#downloading-the-binary).
 
 #### Running an Ansible playbook
 
